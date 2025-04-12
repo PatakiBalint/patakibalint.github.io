@@ -17,3 +17,6 @@ body{
 .clear{
     clear: both;
 }
+.ind{
+    text-indent: 50px;
+  }
